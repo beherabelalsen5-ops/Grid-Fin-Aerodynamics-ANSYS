@@ -1,0 +1,8 @@
+*_files/
+*.wbpj
+*.cas
+*.dat
+*.msh
+*.trn
+*.out
+*.log
